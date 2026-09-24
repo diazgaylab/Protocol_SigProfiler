@@ -1,0 +1,19 @@
+# Output of run_example.sh
+/LUAD_res/
+/LUAD_US_extraction_288/
+/LUAD_US_extraction_1536/
+/LUAD_US_decomposition/
+/LUAD_US_optimized_decomposition/
+/LUAD_de_novo_decomposition/
+/LUAD_cosmic_refitting/
+/LUAD_decomposed_assignment_to_mutations/
+/LUAD_plots/
+
+# Output of the steps that require real data (step6, step7, step16)
+/LUAD_topography/
+
+# Created inside the input folder by SigProfilerAssignment in step14
+/somatic_mutation_folder/input/
+/somatic_mutation_folder/output/
+
+__pycache__/
