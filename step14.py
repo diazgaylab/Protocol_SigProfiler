@@ -7,4 +7,4 @@ Analyze.cosmic_fit("somatic_mutation_folder",
 				   signature_database = "LUAD_US_optimized_decomposition/Decompose_Solution/Signatures/Decompose_Solution_Signatures.txt", 
 				   genome_build = "GRCh37",
 				   export_probabilities_per_mutation = True,
-                   collapse_to_SBS96 = False)
+                   collapse_to_SBS96 = True)
